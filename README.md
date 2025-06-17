@@ -8,12 +8,15 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
+- Estudiante del Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web en el CIFP de los Sectores Industrial y de Servicios La Laboral en Gijón.
+  
+- Actualmente, estoy realizando mis prácticas profesionales en Hiberus, donde estoy aplicando mis conocimientos adquiridos y aprendiendo día a día. Me considero una persona divertida, cercana y con ganas de aportar buen ambiente allá donde voy.
 
-- 🌱 Actualmente, estoy realizando mis prácticas profesionales en Hiberus, donde estoy aplicando mis conocimientos adquiridos y aprendiendo día a día. Me considero una persona divertida, cercana y con ganas de aportar buen ambiente allá donde voy.
+- Además del desarrollo web, tengo cierta curiosidad por la ciberseguridad, un área que me interesa y que, en un futuro, podría explorar más a fondo mediante estudios adicionales.
 
-- 📫 How to reach me **pelavv97@gmail.com**
+-  Contacta conmigo: **pelavv97@gmail.com**
 
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+- Estoy abierto a oportunidades en el mundo tecnológico que me permitan seguir creciendo profesional y personalmente.
 
 <br>
 
