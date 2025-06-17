@@ -15,8 +15,6 @@
 
 - Además del **desarrollo web**, tengo cierta curiosidad por la **ciberseguridad**, un área que me interesa y que, en un futuro, podría explorar más a fondo mediante estudios adicionales.
 
--  Contacta conmigo: **pelavv97@gmail.com**
-
 - Estoy abierto a oportunidades en el mundo tecnológico que me permitan seguir creciendo profesional y personalmente.
 
 <br>
@@ -44,5 +42,5 @@
 
 <h3 align="left">Contacta conmigo</h3>
 
-<a href="https://www.linkedin.com/in/absphreak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/pelayo-v%C3%A1zquez-vidal/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
