@@ -42,9 +42,7 @@
 
 <br>
 
-<h3 align="left">Lenguajes y Herramientas</h3>
+<h3 align="left">Contacta conmigo</h3>
 
-<a href="https://www.linkedin.com/in/pelayo-vázquez-vidal" target="blank"><img align="center"Add commentMore actions
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/absphreak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
