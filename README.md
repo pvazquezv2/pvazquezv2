@@ -3,6 +3,7 @@
 <h1 align="center">Hola 👋, Mi nombre es Pelayo Vázquez Vidal</h1>
 <h3 align="center">📘Estudiante en Prácticas📘</h3>
 <h4 align="center">AEM FRONTEND DEVELOPER</h4>
+<a href="https://www.linkedin.com/in/pelayo-v%C3%A1zquez-vidal/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 
 <br>
