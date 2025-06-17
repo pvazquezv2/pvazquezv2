@@ -9,7 +9,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 Actualmente, estoy realizando mis prácticas profesionales en Hiberus, donde estoy aplicando mis conocimientos adquiridos y aprendiendo día a día. Me considero una persona divertida, cercana y con ganas de aportar buen ambiente allá donde voy.
 
 - 📫 How to reach me **pelavv97@gmail.com**
 
