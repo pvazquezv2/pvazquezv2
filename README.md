@@ -2,7 +2,7 @@
 
 <h1 align="center">Hola 👋, Mi nombre es Pelayo Vázquez Vidal</h1>
 <h3 align="center">Estudiante en Prácticas.</h3>
-<h4> align="center">AEM FRONTEND DEVELOPER</h4>
+<h4 align="center">AEM FRONTEND DEVELOPER</h4>
 
 
 <br>
