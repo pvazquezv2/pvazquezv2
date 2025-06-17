@@ -1,7 +1,8 @@
 ![Black Minimalist Motivation Quote LinkedIn Banner](https://github.com/user-attachments/assets/155048b9-3071-4d11-b4a1-0280ecc59a80)
 
-<h1 align="center">Hi 👋, I'm Pelayo Vázquez</h1>
-<h3 align="center">Frontend developer.</h3>
+<h1 align="center">Hola 👋, Mi nombre es Pelayo Vázquez Vidal</h1>
+<h3 align="center">Estudiante en Prácticas.</h3>
+<h4> align="center">AEM FRONTEND DEVELOPER</h4>
 
 
 <br>
