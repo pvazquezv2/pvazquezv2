@@ -43,8 +43,8 @@
 
 <h3 align="left">Contacta conmigo</h3>
 
-<div align="center">
+
   <a align="center" href="https://www.linkedin.com/in/pelayo-v%C3%A1zquez-vidal/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</div>
+
 
 
