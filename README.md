@@ -12,13 +12,13 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-- Estudiante del **Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web** en el CIFP de los Sectores Industrial y de Servicios La Laboral en Gijón.
+- Soy Técnico Superior en Desarrollo de Aplicaciones Web, actualmente especializado en ciberseguridad y orientando mi carrera hacia la protección de sistemas, redes y aplicaciones.
   
-- Actualmente, estoy realizando mis prácticas profesionales en **Hiberus**, donde estoy aplicando mis conocimientos adquiridos y aprendiendo día a día. Me considero una persona divertida, cercana y con ganas de aportar buen ambiente allá donde voy.
+- Mi base en desarrollo me permite comprender el funcionamiento interno del software y detectar vulnerabilidades desde el origen. Actualmente estoy ampliando mis conocimientos en redes, seguridad ofensiva y defensiva, y análisis de tráfico.
 
-- Además del **desarrollo web**, tengo cierta curiosidad por la **ciberseguridad**, un área que me interesa y que, en un futuro, podría explorar más a fondo mediante estudios adicionales.
+- Durante mi formación estoy trabajando con herramientas como Nmap, Wireshark y Kali Linux, aplicándolas en entornos prácticos.
 
-- Estoy abierto a oportunidades en el mundo tecnológico que me permitan seguir creciendo profesional y personalmente.
+- Estoy enfocado en iniciar mi carrera profesional en ciberseguridad, con interés en seguir desarrollándome tanto en seguridad ofensiva como defensiva.
 
 <br>
 
