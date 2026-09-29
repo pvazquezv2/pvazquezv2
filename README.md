@@ -12,13 +12,13 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-- Soy Técnico Superior en Desarrollo de Aplicaciones Web, actualmente especializado en ciberseguridad y orientando mi carrera hacia la protección de sistemas, redes y aplicaciones.
+- Soy Técnico Superior en Desarrollo de Aplicaciones Web y cuento con un Curso de Especialización de Grado Superior en Ciberseguridad. Mi perfil combina desarrollo web y frontend con conocimientos en sistemas, redes, virtualización, cloud y ciberseguridad.Soy Técnico Superior en Desarrollo de Aplicaciones Web y cuento con un Curso de Especialización de Grado Superior en Ciberseguridad. Mi perfil combina desarrollo web y frontend con conocimientos en sistemas, redes, virtualización, cloud y ciberseguridad.
   
-- Mi base en desarrollo me permite comprender el funcionamiento interno del software y detectar vulnerabilidades desde el origen. Actualmente estoy ampliando mis conocimientos en redes, seguridad ofensiva y defensiva, y análisis de tráfico.
+- Mi formación en desarrollo me ha permitido trabajar con tecnologías web, Java, Spring Boot, JavaScript, HTML y CSS, además de contar con experiencia profesional como desarrollador frontend con Adobe Experience Manager.
 
-- Durante mi formación estoy trabajando con herramientas como Nmap, Wireshark y Kali Linux, aplicándolas en entornos prácticos.
+- Durante mi formación en ciberseguridad he trabajado con entornos Windows y Linux, VMware, VirtualBox, Microsoft Azure, Active Directory, redes y herramientas como Wireshark, Nmap, Kali Linux y Wazuh.
 
-- Estoy enfocado en iniciar mi carrera profesional en ciberseguridad, con interés en seguir desarrollándome tanto en seguridad ofensiva como defensiva.
+- Actualmente busco una oportunidad profesional dentro del sector IT donde pueda aplicar mis conocimientos y seguir desarrollándome en diferentes áreas, especialmente desarrollo, soporte técnico, sistemas, redes, cloud y ciberseguridad.
 
 <br>
 
